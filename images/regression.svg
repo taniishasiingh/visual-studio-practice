@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="white"/>
+  <text x="200" y="28" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#333">Simple Linear Regression</text>
+  <line x1="50" y1="260" x2="370" y2="260" stroke="#333" stroke-width="2"/>
+  <line x1="50" y1="260" x2="50" y2="50" stroke="#333" stroke-width="2"/>
+  <text x="210" y="290" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">x</text>
+  <text x="30" y="155" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">y</text>
+  <g fill="#1f77b4">
+    <circle cx="80" cy="225" r="5"/><circle cx="110" cy="215" r="5"/>
+    <circle cx="140" cy="190" r="5"/><circle cx="170" cy="195" r="5"/>
+    <circle cx="200" cy="160" r="5"/><circle cx="230" cy="150" r="5"/>
+    <circle cx="260" cy="135" r="5"/><circle cx="290" cy="110" r="5"/>
+    <circle cx="320" cy="105" r="5"/><circle cx="350" cy="80" r="5"/>
+  </g>
+  <line x1="65" y1="235" x2="360" y2="75" stroke="#d62728" stroke-width="3"/>
+</svg>
